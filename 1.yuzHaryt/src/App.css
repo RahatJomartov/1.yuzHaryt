@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: ghostwhite;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.row2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+input {
+  border: none;
+  outline: none;
+}
+button {
+  border: none;
+  outline: none;
+}
+@media only screen and (max-width:1200px) {
+  #swiper {
+      flex-basis: 100%;
+  }
+}

@@ -1,0 +1,44 @@
+#gurlusuk-we-remont {
+    margin: 10px 0px;
+}
+#gurlusuk-we-remont .box {
+    flex-basis: 19%;
+}
+#gurlusuk-we-remont .box img {
+    width: 100%;
+    border-radius: 8px;
+  
+}
+
+#gurlusuk-we-remont .box .box1 {
+    padding-left: 20px;
+}
+#gurlusuk-we-remont .box .box1 button {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 10px 0px;
+    background-color: #15B739;
+    border-radius: 8px;
+}
+#gurlusuk-we-remont .box .box1 {
+    background-color: #ffffff;
+}
+#gurlusuk-we-remont .box .box1 button a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+#gurlusuk-we-remont .box .box1 p {
+    font-size: 14px;
+    color: #212528;
+}
+#gurlusuk-we-remont .box .box1 .div {
+    height:35px;
+    width: 40px;
+    background-color:gainsboro;
+    margin-right: 30px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+

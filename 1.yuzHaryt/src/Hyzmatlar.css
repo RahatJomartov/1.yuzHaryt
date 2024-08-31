@@ -1,0 +1,21 @@
+
+#hyzmatlar .box {
+    flex-basis: 24%;
+}
+#hyzmatlar .box img {
+width: 100%;
+border-radius: 8px;
+}
+#hyzmatlar button {
+    font-size: 16px;
+    padding: 6px 10px 7px 16px;
+    border: 1px solid #15B739;
+    border-radius: 6px;
+    float: right;
+}
+#hyzmatlar button a{
+    text-decoration: none;
+    color: #15B739;
+  
+    
+}

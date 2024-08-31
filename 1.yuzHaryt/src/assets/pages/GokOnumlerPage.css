@@ -1,0 +1,78 @@
+#gokonumler .box {
+    flex-basis: 19%;
+    margin: 5px;
+}
+#gokonumler .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#gokonumler h2 {
+    padding: 15px 0px;
+}
+
+#gokonumler .box .box1 {
+    padding-left: 20px;
+}
+#gokonumler .box .box1 button {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 10px 0px;
+    background-color: #15B739;
+    border-radius: 8px;
+}
+#gokonumler .box .box1 {
+    background-color: #ffffff;
+}
+#gokonumler .box .box1 button a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+#gokonumler .box .box1 p {
+    font-size: 14px;
+    color: #212528;
+}
+#gokonumler .box .box1 .div {
+    height:35px;
+    width: 40px;
+    background-color:gainsboro;
+    margin-right: 30px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+
+#footer {
+    align-items: start;
+    padding: 20px 0px;
+}
+#footer .box {
+    flex-basis: 19%;
+    height: 200px;  
+    padding-left: 20px;
+}
+#footer h4 {
+    font-size: 20px;
+    color: #000000;
+}
+#footer a {
+    font-size: 16px;
+    color: #000000;
+}
+#footer .box a {
+text-decoration: none;
+color: #000000;
+}
+#footer .box a:hover {
+    color: blue;
+}
+#footer .box button {
+    font-size: 16px;
+    background-color: #1CBC5926;
+    padding: 10px 17px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+#footer .box button a {
+    color: #15B739;
+} 

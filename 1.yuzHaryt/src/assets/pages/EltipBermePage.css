@@ -1,0 +1,72 @@
+#eltipberme .box ul {
+    display: flex;
+    margin-top: 30px;
+}
+#eltipberme  .box ul li {
+list-style: none;
+}
+#eltipberme  .box ul li a {
+    text-decoration: none;
+    padding: 20px;
+    color: #000000;
+    font-size: 16px;
+}
+#eltipberme  .box ul li a:hover {
+    color: #15B739;
+}
+#eltipberme .box1 {
+    padding: 30px;
+    margin: 20px 0px;
+    border-radius: 8px;
+    line-height:35px;
+    background-color: #ffffff;
+}
+#eltipberme .box1 h4 {
+    font-size: 36px;
+    font-size: #212121;
+    padding: 15px 0px;
+}
+#eltipberme .box1 p {
+    color: #000000;
+    font-size: 16px;
+}
+#eltipberme .box1 span {
+    color: red;
+    font-size: 16px;
+}
+
+
+#footer {
+    align-items: start;
+    padding: 20px 0px;
+}
+#footer .box {
+    flex-basis: 19%;
+    height: 200px;  
+    padding-left: 20px;
+}
+#footer h4 {
+    font-size: 20px;
+    color: #000000;
+}
+#footer a {
+    font-size: 16px;
+    color: #000000;
+}
+#footer .box a {
+text-decoration: none;
+color: #000000;
+}
+#footer .box a:hover {
+    color: blue;
+}
+#footer .box button {
+    font-size: 16px;
+    background-color: #1CBC5926;
+    padding: 10px 17px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+#footer .box button a {
+    color: #15B739;
+} 

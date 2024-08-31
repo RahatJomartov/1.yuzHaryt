@@ -1,0 +1,75 @@
+#ulanysduzgunleri .box ul {
+    display: flex;
+    margin-top: 30px;
+}
+#ulanysduzgunleri .box ul li {
+list-style: none;
+}
+#ulanysduzgunleri .box ul li a {
+    text-decoration: none;
+    padding: 20px;
+    color: #000000;
+    font-size: 16px;
+}
+#ulanysduzgunleri .box ul li a:hover {
+    color: #15B739;
+}
+#ulanysduzgunleri .box1 {
+    padding-left: 20px;
+    background-color: #ffffff;
+    margin: 30px;
+    border-radius: 8px;
+    line-height: 30px;
+}
+#ulanysduzgunleri .box1 h4 {
+    font-size: 36px;
+    color: #212121;
+    padding: 15px 0px;
+}
+#ulanysduzgunleri .box1 h5 {
+    font-size: 17px;
+    padding: 20px 0px;
+}
+#ulanysduzgunleri .box1 p {
+    font-size: 16px;
+}
+#ulanysduzgunleri .box1 .box2 {
+    font-size: 16px;
+    padding: 15px 0px;
+}
+
+
+#footer {
+    align-items: start;
+    padding: 20px 0px;
+}
+#footer .box {
+    flex-basis: 19%;
+    height: 200px;  
+    padding-left: 20px;
+}
+#footer h4 {
+    font-size: 20px;
+    color: #000000;
+}
+#footer a {
+    font-size: 16px;
+    color: #000000;
+}
+#footer .box a {
+text-decoration: none;
+color: #000000;
+}
+#footer .box a:hover {
+    color: blue;
+}
+#footer .box button {
+    font-size: 16px;
+    background-color: #1CBC5926;
+    padding: 10px 17px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+#footer .box button a {
+    color: #15B739;
+} 

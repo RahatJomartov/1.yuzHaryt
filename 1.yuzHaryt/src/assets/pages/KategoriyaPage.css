@@ -1,0 +1,26 @@
+
+#kategoriyalar h2 {
+    padding: 20px 0px;
+    font-size: 18px;
+}
+#kategoriyalar .box {
+    flex-basis: 19%;
+}
+#kategoriyalar .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#footer .box {
+    flex-basis: 16%;
+    margin: 5px 0px;
+    background-color: #ffffff;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+#footer .box h3 {
+    font-size: 18px;
+}
+#footer .box p {
+    font-size: 16px;
+}
+

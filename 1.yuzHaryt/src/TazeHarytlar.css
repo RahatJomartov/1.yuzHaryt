@@ -1,0 +1,38 @@
+#taze-harytlar .box {
+    flex-basis: 19%;
+}
+#taze-harytlar .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#taze-harytlar .box .box1 {
+    padding-left: 20px;
+}
+#taze-harytlar  .box .box1 button {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 10px 0px;
+    background-color: #15B739;
+    border-radius: 8px;
+}
+#taze-harytlar  .box .box1 {
+    background-color: #ffffff;
+}
+#taze-harytlar  .box .box1 button a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+#taze-harytlar .box .box1 p {
+    font-size: 14px;
+    color: #212528;
+}
+#taze-harytlar .box .box1 .div {
+    height:35px;
+    width: 40px;
+    background-color:gainsboro;
+    margin-right: 30px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}

@@ -1,0 +1,37 @@
+
+#one-cykanlar .box {
+    flex-basis: 24%;
+    background-color:gainsboro;
+    margin-top: 10px;
+    border-radius: 10px;
+   
+}
+#one-cykanlar .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#one-cykanlar .box h5 {
+    padding: 0px 20px;  
+    font-size: 18px; 
+}
+#one-cykanlar .box a {
+    text-decoration: none;
+    color: #000000;
+}
+@media only screen and (max-width:1000px) {
+    #one-cykanlar .box {
+        flex-basis: 33%;
+    }
+}
+@media only screen and (max-width:700px) {
+    #one-cykanlar .box {
+        flex-basis: 49%;
+    }
+}
+@media only screen and (max-width:400px) {
+    #one-cykanlar .box {
+        flex-basis: 100%;
+    }
+}
+
+

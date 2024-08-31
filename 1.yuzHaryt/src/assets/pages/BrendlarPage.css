@@ -1,0 +1,88 @@
+
+#brendlar {
+    background-color: gainsboro;
+    padding-bottom: 50px;
+}
+#brendlar a {
+    text-decoration: none;
+    color: #00000098;
+}
+#brendlar h4 {
+    font-size: 18px;
+    padding: 20px 0px;
+}
+
+#brendlar .box {
+    flex-basis: 49%;
+}
+#brendlar .box h2 {
+    font-size: 30px;
+}
+#brendlar .box input {
+    padding: 7px 12px;
+    background-color: #fff;
+    color: #62636B;
+    font-size: 14px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#brendlar .box button {
+    background-color: #fff;
+    padding: 8px 10px 8px 14px;
+    font-size: 14px;
+    color: #62636B;
+    margin: 5px;
+    border-radius: 5px;
+}
+#brendlar .box button a:hover {
+    color: #15B739;
+}
+#brendlar .box1 {
+    flex-basis: 13%;
+    margin: 5px 0px;
+    border-bottom: 1px solid #62636B;
+}
+#brendlar .box1 img {
+    width: 100%;
+    border-radius: 8px;
+}
+#brendlar .box1 h5 {
+    text-align: center;
+    font-size: 18px;
+}
+
+
+#footer {
+    align-items: start;
+    padding: 20px 0px;
+}
+#footer .box {
+    flex-basis: 19%;
+    height: 200px;  
+    padding-left: 20px;
+}
+#footer h4 {
+    font-size: 20px;
+    color: #000000;
+}
+#footer a {
+    font-size: 16px;
+    color: #000000;
+}
+#footer .box a {
+text-decoration: none;
+color: #000000;
+}
+#footer .box a:hover {
+    color: blue;
+}
+#footer .box button {
+    font-size: 16px;
+    background-color: #1CBC5926;
+    padding: 10px 17px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+#footer .box button a {
+    color: #15B739;
+} 

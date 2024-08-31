@@ -1,0 +1,33 @@
+#baner4  {
+    padding: 10px 0px;
+    background-color: gainsboro;
+}
+#baner4 .box {
+    flex-basis: 48%;
+}
+#baner4 .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#baner4 .box .box1  {
+    flex-basis: 32%;
+}
+#baner4 .box .box1 img {
+    width: 95%;
+}
+#baner4 .box h3 {
+    font-size: 36px;
+    color: #000000;
+}
+#baner4 .box p {
+    font-size: 18px;
+    color: #000000;
+    padding: 15px 0px;
+}
+
+
+
+
+
+
+

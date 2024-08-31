@@ -1,0 +1,55 @@
+#mebeller {
+    margin: 10px 0px;
+}
+#mebeller .box {
+    flex-basis: 19%;
+}
+#mebeller .box img {
+    width: 100%;
+    border-radius: 8px;
+}
+#mebeller .box .box1 {
+    padding-left: 20px;
+}
+#mebeller .box .box1 button {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 10px 0px;
+    background-color: #15B739;
+    border-radius: 8px;
+}
+#mebeller .box .box1 {
+    background-color: #ffffff;
+}
+#mebeller .box .box1 button a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+#mebeller .box .box1 p {
+    font-size: 14px;
+    color: #212528;
+}
+#mebeller .box .box1 .div {
+    height:35px;
+    width: 40px;
+    background-color:gainsboro;
+    margin-right: 30px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+#mebeller button {
+    font-size: 16px;
+    padding: 6px 10px 7px 16px;
+    border: 1px solid #15B739;
+    border-radius: 6px;
+    float: right;
+    margin-top: 10px;
+}
+#mebeller button a{
+    text-decoration: none;
+    color: #15B739;
+  
+    
+}

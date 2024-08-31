@@ -1,0 +1,33 @@
+
+
+#meshur-dukanlar h2 {
+    padding: 15px;
+
+}
+
+#meshur-dukanlar .box {
+    flex-basis: 49%;
+    display: flex;
+    border-radius: 10px;
+   
+}
+#meshur-dukanlar .box img {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+#meshur-dukanlar button {
+    font-size: 16px;
+    padding: 6px 10px 7px 16px;
+    border: 1px solid #15B739;
+    border-radius: 6px;
+    float: right;
+}
+#meshur-dukanlar button a{
+    text-decoration: none;
+    color: #15B739;
+  
+    
+}
+

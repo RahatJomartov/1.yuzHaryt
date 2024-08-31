@@ -1,0 +1,9 @@
+#topHeader img {
+    width: 100%;
+
+}
+@media only screen and (max-width:1000px) {
+    #topHeader {
+        flex-basis: 100%;
+    }
+}

@@ -1,0 +1,211 @@
+
+#ikea {
+    background-color: #dcdcdc;
+    padding-top: 20px;
+   
+}
+#ikea a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #000000;
+}
+#ikea h1 {
+padding: 15px 0px;
+}
+#ikea .box {
+    flex-basis: 25%;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+}
+
+#ikea .box .div  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div3 {
+    border-bottom: 1px solid #000000;
+    padding: 10px 0px;
+}
+#ikea .box .div3  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div3  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div1 p {
+    padding: 10px 20px;
+}
+#ikea .box .div2 {
+    border-bottom: 1px solid #000000;
+    padding: 10px 0px;
+}
+#ikea .box .div2 input {
+    width: 100px;
+    height: 30px;
+    margin: 0px 5px;
+    padding: 0px 10px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div4 input {
+    width: 200px;
+    height: 40px;
+    margin-left: 10px;
+    padding: 0px 15px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div5  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div5  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div6  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div6  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div7  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div7  p {
+    padding-right: 100px;
+    font-size: 16px;
+}#ikea .box .div8  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+}
+#ikea .box .div8  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div9  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div9  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div10  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div10  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div10 {
+    border-bottom: 1px solid #000000;
+    padding: 10px 0px;
+}
+#ikea .box .div11 input {
+    width: 200px;
+    height: 40px;
+    margin-left: 10px;
+    padding: 0px 15px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div12  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div12  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div13  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div13  p {
+    padding-right: 100px;
+    font-size: 16px;
+}
+#ikea .box .div13 {
+    border-bottom: 1px solid #000000;
+    padding: 10px 0px;
+}
+#ikea .box .div14 input {
+    width: 200px;
+    height: 40px;
+    margin-left: 10px;
+    padding: 0px 15px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div15  input {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid #dcdcdc;
+}
+#ikea .box .div15  p {
+    padding-right: 170px;
+    font-size: 16px;
+}
+#ikea .box .div16 {
+    border-bottom: 1px solid #000000;
+    padding: 10px 0px;
+}
+#ikea  .bir {
+flex-basis: 70%;
+}
+#ikea  .box1 {
+    flex-basis: 19%;
+    height: 100px;
+
+}
+#ikea  .box1 img{
+width: 100%;
+}
+#ikea .iki {
+    align-items: start;
+
+    
+}
